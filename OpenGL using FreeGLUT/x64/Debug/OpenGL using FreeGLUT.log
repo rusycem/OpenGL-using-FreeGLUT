@@ -1,0 +1,10 @@
+﻿  Main.cpp
+C:\Users\muhdi\source\repos\OpenGL using FreeGLUT\OpenGL using FreeGLUT\Main.cpp(9,12): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\muhdi\source\repos\OpenGL using FreeGLUT\OpenGL using FreeGLUT\Main.cpp(9,23): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\muhdi\source\repos\OpenGL using FreeGLUT\OpenGL using FreeGLUT\Main.cpp(10,8): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\muhdi\source\repos\OpenGL using FreeGLUT\OpenGL using FreeGLUT\Main.cpp(10,19): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\muhdi\source\repos\OpenGL using FreeGLUT\OpenGL using FreeGLUT\Main.cpp(10,30): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\muhdi\source\repos\OpenGL using FreeGLUT\OpenGL using FreeGLUT\Main.cpp(11,7): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\muhdi\source\repos\OpenGL using FreeGLUT\OpenGL using FreeGLUT\Main.cpp(11,18): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\muhdi\source\repos\OpenGL using FreeGLUT\OpenGL using FreeGLUT\Main.cpp(11,29): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  OpenGL using FreeGLUT.vcxproj -> C:\Users\muhdi\source\repos\OpenGL using FreeGLUT\x64\Debug\OpenGL using FreeGLUT.exe
